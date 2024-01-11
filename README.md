@@ -20,3 +20,5 @@
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"> </code> 
  <code> <img height="50" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg"> </code> 
 </p>
+
+![JCJMA1994's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JCJMA1994&theme=dracula&show_icons=true&hide_border=true&layout=compact)
