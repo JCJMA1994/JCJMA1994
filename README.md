@@ -7,20 +7,17 @@
 ###
 
 <h2 align="left" style="color:white;" >💻 Tech Stack</h2>
-
-###
-## 🏆 GitHub Trophies
-<p align="center">&nbsp;
-  <a><img src="https://github-profile-trophy.vercel.app/?username=JCJMA1994&row=2&column=4&theme=gitdimmed&no-frame=false&no-bg=false&margin-w=4" /></a>
- </p>
- ###
-
 <div align="left">
   <a href="#">
     <img src="https://skillicons.dev/icons?i=dart,flutter,firebase,kotlin,python,java,figma,vscode,androidstudio,git,github&theme=dark" />
   </a>
  
 </div>
+###
+## 🏆 GitHub Trophies
+<p align="center">&nbsp;
+  <a><img src="https://github-profile-trophy.vercel.app/?username=JCJMA1994&row=2&column=4&theme=gitdimmed&no-frame=false&no-bg=false&margin-w=4" /></a>
+ </p>
 
 ###
 
